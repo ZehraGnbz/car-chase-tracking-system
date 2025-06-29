@@ -1,0 +1,72 @@
+# Build directories
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+
+# Flask
+instance/
+.webassets-cache
+
+# Uploaded and processed videos
+uploads/
+outputs/
+temp/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*_tracked.*
+*_preprocessed.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Model files (if large)
+models/*.weights
+models/*.cfg
+models/*.names
+
+# Backup files
+*.bak
+*.backup
+*.tmp 
