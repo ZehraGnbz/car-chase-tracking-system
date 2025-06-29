@@ -1,3 +1,4 @@
+HEAD
 # 🚗🚁 Car Chase Tracking System
 
 Advanced vehicle tracking system designed for helicopter police chase videos with AI-powered detection and multi-object tracking capabilities.
@@ -262,3 +263,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Note**: This system is designed for research and educational purposes. Always ensure compliance with local laws and regulations when processing video content. 
+=======
+# car-chase-tracking-system
+>>>>>>> 3ed27f0a4a8ba01f14d59fb9d694473cd5afca2d
